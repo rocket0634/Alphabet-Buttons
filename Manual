@@ -3,19 +3,32 @@ AHHH!!! My Numbered Buttons turned into Alphabet Buttons.
 
 Press the letters on the keypad that correspond with applicable statements. If none of the statements apply, press the first letter of the serial number.
 
-A	The bomb has an RJ-45 port		N	The serial number contains N
-B	The last digit of the serial number is a multiple of 3		O	O is red, orange or yellow
-C	The bomb has a parallel port		P	P is red, blue or magenta
-D	The bomb has a serial port		Q	The second character of the serial number is Q
-E	The last digit of the serial number is a multiple of 5		R	R is red, orange, cyan or magenta
-F	The bomb has a CAR indicator		S	S is in the first row
-G	The bomb has a lit SIG indicator		T	T is in the first column
-H	The bomb has both a PS2 port and a DVI-D port		U	U is magenta
-I	The bomb has an empty port plate		V	V is orange, green or blue
-J	J is red, yellow, cyan or magenta		W	The serial number contains a 2
-K	The bomb has at least four batteries		X	The bomb has at least four battery holders
-L	R is red, O is orange, or etc.		Y	Y is yellow
-M	M is red or magenta		Z	Z is the bottom-most button
+A:	The bomb has an RJ-45 port		
+B:	The last digit of the serial number is a multiple of 3		
+C:	The bomb has a parallel port
+D:	The bomb has a serial port
+E:	The last digit of the serial number is a multiple of 5
+F:	The bomb has a CAR indicator	
+G:	The bomb has a lit SIG indicator
+H:	The bomb has both a PS2 port and a DVI-D port		
+I:	The bomb has an empty port plate		
+J:	J is red, yellow, cyan or magenta		
+K:	The bomb has at least four batteries		
+L:	R is red, O is orange, or etc.		
+M:	M is red or magenta		
+N:	The serial number contains N
+O:	O is red, orange or yellow
+P:	P is red, blue or magenta
+Q:	The second character of the serial number is Q
+R:	R is red, orange, cyan or magenta
+S:	S is in the first row
+T:	T is in the first column
+U:	U is magenta
+V:	V is orange, green or blue
+W:	The serial number contains a 2
+X:	The bomb has at least four battery holders
+Y:	Y is yellow
+Z:	Z is the bottom-most button
 If colourblind support is enabled, hovering over a key will show its colour on the top-left of the module.
 
 The colours that can appear on this module are Red, Orange, Yellow, Green, Cyan, Blue and Magenta.
