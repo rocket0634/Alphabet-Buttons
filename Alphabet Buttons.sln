@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alphabet Buttons", "Alphabet Buttons.csproj", "{8E1A052B-B3DF-11CC-DEA4-0869F65A155D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alphabet Buttons.Editor", "Alphabet Buttons.Editor.csproj", "{4D6AC3E8-BD76-4DB7-0656-DE5BB0D840BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E1A052B-B3DF-11CC-DEA4-0869F65A155D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1A052B-B3DF-11CC-DEA4-0869F65A155D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1A052B-B3DF-11CC-DEA4-0869F65A155D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1A052B-B3DF-11CC-DEA4-0869F65A155D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D6AC3E8-BD76-4DB7-0656-DE5BB0D840BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D6AC3E8-BD76-4DB7-0656-DE5BB0D840BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D6AC3E8-BD76-4DB7-0656-DE5BB0D840BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D6AC3E8-BD76-4DB7-0656-DE5BB0D840BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
